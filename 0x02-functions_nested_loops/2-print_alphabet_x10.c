@@ -2,7 +2,9 @@
 
 /**
  * print_alphabet_×10 - prints alpha 10 times
+ * Return: void
  */
+
 void print_alphabet_x10(void)
 {
 	int ten;
